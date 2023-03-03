@@ -50,7 +50,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Lubianfuchen\\DuskDashboard\\DuskDashboardServiceProvider"
+                "BeyondCode\\DuskDashboard\\DuskDashboardServiceProvider"
             ]
         }
     }
