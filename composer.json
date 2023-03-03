@@ -20,14 +20,14 @@
         "cboden/ratchet": "^0.4.1",
         "clue/buzz-react": "^2.5",
         "guzzlehttp/guzzle": "^7.2",
-        "illuminate/console": "5.6.*|5.7.*|5.8.*|6.*|7.*|8.*",
-        "illuminate/support": "5.6.*|5.7.*|5.8.*|6.*|7.*|8.*",
-        "laravel/dusk": "^4.0|^5.0|^6.0|^7.0",
+        "illuminate/console": "5.6.*|5.7.*|5.8.*|6.*|7.*|8.*|^9.0",
+        "illuminate/support": "5.6.*|5.7.*|5.8.*|6.*|7.*|8.*|^9.0",
+        "laravel/dusk": "^4.0|^5.0|^6.0|^7",
         "yosymfony/resource-watcher": "^2.0"
     },
     "require-dev": {
         "larapack/dd": "^1.0",
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^9.0"
     },
     "autoload": {
         "psr-4": {
