@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Lubianfuchen\\DuskDashboard\\": "src"
+            "lubianfuchen\\DuskDashboard\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Lubianfuchen\\DuskDashboard\\Tests\\": "tests"
+            "lubianfuchen\\DuskDashboard\\Tests\\": "tests"
         }
     },
     "scripts": {
