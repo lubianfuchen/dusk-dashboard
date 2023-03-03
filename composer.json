@@ -11,7 +11,7 @@
         {
             "name": "Marcel Pociot",
             "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
+            "homepage": "https://Lubianfuchen.de",
             "role": "Developer"
         }
     ],
@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "lubianfuchen\\DuskDashboard\\": "src"
+            "Lubianfuchen\\DuskDashboard\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "lubianfuchen\\DuskDashboard\\Tests\\": "tests"
+            "Lubianfuchen\\DuskDashboard\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -50,7 +50,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BeyondCode\\DuskDashboard\\DuskDashboardServiceProvider"
+                "Lubianfuchen\\DuskDashboard\\DuskDashboardServiceProvider"
             ]
         }
     }

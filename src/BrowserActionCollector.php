@@ -1,9 +1,9 @@
 <?php
 
-namespace BeyondCode\DuskDashboard;
+namespace Lubianfuchen\DuskDashboard;
 
-use BeyondCode\DuskDashboard\Console\StartDashboardCommand;
-use BeyondCode\DuskDashboard\Dusk\Browser;
+use Lubianfuchen\DuskDashboard\Console\StartDashboardCommand;
+use Lubianfuchen\DuskDashboard\Dusk\Browser;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
 

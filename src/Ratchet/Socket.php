@@ -1,8 +1,8 @@
 <?php
 
-namespace BeyondCode\DuskDashboard\Ratchet;
+namespace Lubianfuchen\DuskDashboard\Ratchet;
 
-use BeyondCode\DuskDashboard\DuskProcessFactory;
+use Lubianfuchen\DuskDashboard\DuskProcessFactory;
 use Ratchet\ConnectionInterface;
 use Ratchet\RFC6455\Messaging\MessageInterface;
 use Ratchet\WebSocket\MessageComponentInterface;

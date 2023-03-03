@@ -1,13 +1,13 @@
 <?php
 
-namespace BeyondCode\DuskDashboard\Console;
+namespace Lubianfuchen\DuskDashboard\Console;
 
-use BeyondCode\DuskDashboard\DuskProcessFactory;
-use BeyondCode\DuskDashboard\Ratchet\Http\DashboardController;
-use BeyondCode\DuskDashboard\Ratchet\Http\EventController;
-use BeyondCode\DuskDashboard\Ratchet\Server\App;
-use BeyondCode\DuskDashboard\Ratchet\Socket;
-use BeyondCode\DuskDashboard\Watcher;
+use Lubianfuchen\DuskDashboard\DuskProcessFactory;
+use Lubianfuchen\DuskDashboard\Ratchet\Http\DashboardController;
+use Lubianfuchen\DuskDashboard\Ratchet\Http\EventController;
+use Lubianfuchen\DuskDashboard\Ratchet\Server\App;
+use Lubianfuchen\DuskDashboard\Ratchet\Socket;
+use Lubianfuchen\DuskDashboard\Watcher;
 use Clue\React\Buzz\Browser;
 use Illuminate\Console\Command;
 use Ratchet\WebSocket\WsServer;

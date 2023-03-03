@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\DuskDashboard\Ratchet\Server;
+namespace Lubianfuchen\DuskDashboard\Ratchet\Server;
 
 use Ratchet\Http\HttpServerInterface;
 

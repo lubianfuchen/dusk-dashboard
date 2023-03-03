@@ -1,10 +1,10 @@
 <?php
 
-namespace BeyondCode\DuskDashboard\Testing;
+namespace Lubianfuchen\DuskDashboard\Testing;
 
-use BeyondCode\DuskDashboard\BrowserActionCollector;
-use BeyondCode\DuskDashboard\Console\StartDashboardCommand;
-use BeyondCode\DuskDashboard\Dusk\Browser;
+use Lubianfuchen\DuskDashboard\BrowserActionCollector;
+use Lubianfuchen\DuskDashboard\Console\StartDashboardCommand;
+use Lubianfuchen\DuskDashboard\Dusk\Browser;
 use Closure;
 use Facebook\WebDriver\Chrome\ChromeOptions;
 use Facebook\WebDriver\Remote\DesiredCapabilities;
@@ -19,7 +19,7 @@ abstract class TestCase extends BaseTestCase
      * Create a new Browser instance.
      *
      * @param  \Facebook\WebDriver\Remote\RemoteWebDriver  $driver
-     * @return \BeyondCode\DuskDashboard\Dusk\Browser
+     * @return \Lubianfuchen\DuskDashboard\Dusk\Browser
      */
     protected function newBrowser($driver)
     {

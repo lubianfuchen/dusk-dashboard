@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\DuskDashboard\Dusk\Concerns;
+namespace Lubianfuchen\DuskDashboard\Dusk\Concerns;
 
 trait MakesAssertions
 {

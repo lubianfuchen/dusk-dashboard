@@ -1,8 +1,8 @@
 <?php
 
-namespace BeyondCode\DuskDashboard\Dusk;
+namespace Lubianfuchen\DuskDashboard\Dusk;
 
-use BeyondCode\DuskDashboard\BrowserActionCollector;
+use Lubianfuchen\DuskDashboard\BrowserActionCollector;
 
 class Browser extends \Laravel\Dusk\Browser
 {

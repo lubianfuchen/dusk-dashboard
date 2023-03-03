@@ -2,9 +2,9 @@
 
 A beautiful dashboard for your Dusk test suites.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/beyondcode/dusk-dashboard.svg?style=flat-square)](https://packagist.org/packages/beyondcode/dusk-dashboard)
-[![Quality Score](https://img.shields.io/scrutinizer/g/beyondcode/dusk-dashboard.svg?style=flat-square)](https://scrutinizer-ci.com/g/beyondcode/dusk-dashboard)
-[![Total Downloads](https://img.shields.io/packagist/dt/beyondcode/dusk-dashboard.svg?style=flat-square)](https://packagist.org/packages/beyondcode/dusk-dashboard)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Lubianfuchen/dusk-dashboard.svg?style=flat-square)](https://packagist.org/packages/Lubianfuchen/dusk-dashboard)
+[![Quality Score](https://img.shields.io/scrutinizer/g/Lubianfuchen/dusk-dashboard.svg?style=flat-square)](https://scrutinizer-ci.com/g/Lubianfuchen/dusk-dashboard)
+[![Total Downloads](https://img.shields.io/packagist/dt/Lubianfuchen/dusk-dashboard.svg?style=flat-square)](https://packagist.org/packages/Lubianfuchen/dusk-dashboard)
 
 ![](https://pociot.dev/storage/22/dusk-dashboard.gif)
 
@@ -13,7 +13,7 @@ A beautiful dashboard for your Dusk test suites.
 You can install the package via composer:
 
 ```bash
-composer require beyondcode/dusk-dashboard --dev
+composer require Lubianfuchen/dusk-dashboard --dev
 ```
 
 Next up, you need to go to your `DuskTestCase.php` that was installed by Laravel Dusk. You can find this file in your `tests` directory:
@@ -24,7 +24,7 @@ use Laravel\Dusk\TestCase as BaseTestCase;
 ```
 with:
 ```php
-use BeyondCode\DuskDashboard\Testing\TestCase as BaseTestCase;
+use Lubianfuchen\DuskDashboard\Testing\TestCase as BaseTestCase;
 ```
 
 ## Usage
